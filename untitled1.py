@@ -13,3 +13,8 @@ import seaborn as ans
 filename = 'HR_comma_sep.csv'
 data = pd.read_csv(filename)
 print(data.head())
+data = pd.read_csv(filename)
+data = pd.read_csv(filename)
+data = pd.read_csv(filename)
+data = pd.read_csv(filename)
+data = pd.read_csv(filename)
